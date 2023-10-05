@@ -53,7 +53,7 @@ Images marked with (F) contain Forsaken images as well.
 - [Tristan](https://github.com/Antivash/CorSavPortraits/raw/main/Tristan.rar)
 - [Yang Guifei](https://github.com/Antivash/CorSavPortraits/raw/main/Yang_Guifei.rar)
 - [Hokusai](https://github.com/Antivash/CorSavPortraits/raw/main/Hokusai.rar)
-- [Sei Shonagon](https://github.com/Antivash/CorSavPortraits/raw/main/SeiS_honagon.rar)
+- [Sei Shonagon](https://github.com/Antivash/CorSavPortraits/raw/main/Sei_Shonagon.rar)
 
 ## Genshin
 
