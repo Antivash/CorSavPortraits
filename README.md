@@ -55,6 +55,21 @@ Images marked with (F) contain Forsaken images as well.
 - [Katsushika Hokusai](https://github.com/Antivash/CorSavPortraits/raw/main/Hokusai.rar)
 - [Sei Shonagon](https://github.com/Antivash/CorSavPortraits/raw/main/sei_shonagon.rar)
 
+### [Fate Roster File Two](https://github.com/Antivash/CorSavPortraits/raw/main/Fate2.ros)
+
+- [Brynhildr](https://github.com/Antivash/CorSavPortraits/raw/main/Brynhildr.rar)
+- [Durga](https://github.com/Antivash/CorSavPortraits/raw/main/Durga.rar)
+- [Kama](https://github.com/Antivash/CorSavPortraits/raw/main/Kama.rar)
+- [Lakshmibai](https://github.com/Antivash/CorSavPortraits/raw/main/Lakshmibai.rar)
+- [Morgan le Fae](https://github.com/Antivash/CorSavPortraits/raw/main/Morgan_le_Fae.rar)
+- [Nagao Kagetora](https://github.com/Antivash/CorSavPortraits/raw/main/Nagao_Kagetora.rar)
+- [Okita Soji](https://github.com/Antivash/CorSavPortraits/raw/main/Okita_Soji.rar)
+- [Ranmaru X](https://github.com/Antivash/CorSavPortraits/raw/main/Ranmaru_X.rar)
+- [Scheherazade](https://github.com/Antivash/CorSavPortraits/raw/main/Scheherazade.rar)
+- [Tomoe Gozen](https://github.com/Antivash/CorSavPortraits/raw/main/Tomoe_Gozen.rar)
+- [Utsumi Erice](https://github.com/Antivash/CorSavPortraits/raw/main/Utsumi_Erice.rar)
+- [Zenobia](https://github.com/Antivash/CorSavPortraits/raw/main/Zenobia.rar)
+
 ## Genshin
 
 ### [Genshin Roster File One](https://github.com/Antivash/CorSavPortraits/raw/main/Genshin.ros)
