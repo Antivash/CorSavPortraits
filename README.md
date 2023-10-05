@@ -44,15 +44,15 @@ Images marked with (F) contain Forsaken images as well.
 
 ### [Fate Roster File One](https://github.com/Antivash/CorSavPortraits/raw/main/Fate.ros)
 
-- [Serenity](https://github.com/Antivash/CorSavPortraits/raw/main/Serenity.rar)
+- [Hassan of Serenity](https://github.com/Antivash/CorSavPortraits/raw/main/Serenity.rar)
 - [Ishtar](https://github.com/Antivash/CorSavPortraits/raw/main/Ishtar.rar)
 - [Ereshkigal](https://github.com/Antivash/CorSavPortraits/raw/main/Ereshkigal.rar)
 - [Ushiwakamaru](https://github.com/Antivash/CorSavPortraits/raw/main/Ushiwakamaru.rar)
 - [Kiyohime](https://github.com/Antivash/CorSavPortraits/raw/main/Kiyohime.rar)
-- [Musashi](https://github.com/Antivash/CorSavPortraits/raw/main/Musashi.rar)
-- [Tristan](https://github.com/Antivash/CorSavPortraits/raw/main/Tristan.rar)
+- [Miyamoto Musashi](https://github.com/Antivash/CorSavPortraits/raw/main/Musashi.rar)
+- [Faerie Knight Tristan/Baobhan Sith](https://github.com/Antivash/CorSavPortraits/raw/main/Tristan.rar)
 - [Yang Guifei](https://github.com/Antivash/CorSavPortraits/raw/main/Yang_Guifei.rar)
-- [Hokusai](https://github.com/Antivash/CorSavPortraits/raw/main/Hokusai.rar)
+- [Katsushika Hokusai](https://github.com/Antivash/CorSavPortraits/raw/main/Hokusai.rar)
 - [Sei Shonagon](https://github.com/Antivash/CorSavPortraits/raw/main/sei_shonagon.rar)
 
 ## Genshin
@@ -80,25 +80,25 @@ Images marked with (F) contain Forsaken images as well.
 ## Persona
 
 ### [Persona Roster File One](https://github.com/Antivash/CorSavPortraits/raw/main/Persona.ros)
-- [Mitsuru](https://github.com/Antivash/CorSavPortraits/raw/main/Mitsuru.rar)
-- [Yukiko](https://github.com/Antivash/CorSavPortraits/raw/main/Yukiko.rar)
-- [Rise](https://github.com/Antivash/CorSavPortraits/raw/main/Risette.rar)
-- [Makoto](https://github.com/Antivash/CorSavPortraits/raw/main/Queen.rar)
-- [Hifumi](https://github.com/Antivash/CorSavPortraits/raw/main/Hifumi.rar)
-- [Futaba](https://github.com/Antivash/CorSavPortraits/raw/main/Oracle.rar)
-- [Kasumi](https://github.com/Antivash/CorSavPortraits/raw/main/Kasumi.rar)
+- [Kirijo Mitsuru](https://github.com/Antivash/CorSavPortraits/raw/main/Mitsuru.rar)
+- [Amagi Yukiko](https://github.com/Antivash/CorSavPortraits/raw/main/Yukiko.rar)
+- [Kujikawa Rise](https://github.com/Antivash/CorSavPortraits/raw/main/Risette.rar)
+- [Niijima Makoto](https://github.com/Antivash/CorSavPortraits/raw/main/Queen.rar)
+- [Hifumi Togo](https://github.com/Antivash/CorSavPortraits/raw/main/Hifumi.rar)
+- [Sakura Futaba](https://github.com/Antivash/CorSavPortraits/raw/main/Oracle.rar)
+- [Yoshizawa Kasumi](https://github.com/Antivash/CorSavPortraits/raw/main/Kasumi.rar)
 
 ## Questionable
 
 ### [Questionable Roster File One](https://github.com/Antivash/CorSavPortraits/raw/main/Rule7.ros)
 These may or may not violate F95's rule 7. 
 
-- [Nanako (Persona)](https://github.com/Antivash/CorSavPortraits/raw/main/Nanako.rar)
-- [Abigail (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Abigail.rar)
-- [Jack (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Jack.rar)
-- [Miyu (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Miyu.rar)
-- [Kuro (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Kuro.rar)
-- [Ilya (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Ilya.rar)
+- [Doujima Nanako (Persona)](https://github.com/Antivash/CorSavPortraits/raw/main/Nanako.rar)
+- [Abigail Williams (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Abigail.rar)
+- [Jack the Ripper (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Jack.rar)
+- [Miyu Edelfelt (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Miyu.rar)
+- [Kuro (Chloe von Einzbern) (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Kuro.rar)
+- [Ilya (Illyasviel von Einzbern) (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Ilya.rar)
 - [Melusine (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Melusine.rar)
 - [Shuten-Doji (Fate)](https://github.com/Antivash/CorSavPortraits/raw/main/Shuten-Doji.rar)
 - [Suzuran(Arknights)](https://github.com/Antivash/CorSavPortraits/raw/main/Suzuran.rar)
