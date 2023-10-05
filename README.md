@@ -75,7 +75,7 @@ Images marked with (F) contain Forsaken images as well.
 ### [Genshin Roster File One](https://github.com/Antivash/CorSavPortraits/raw/main/Genshin.ros)
 - [Beido](https://github.com/Antivash/CorSavPortraits/raw/main/Beido.rar)
 - [Ningguang](https://github.com/Antivash/CorSavPortraits/raw/main/Ningguang.rar)
-- [Kojou Sara](https://github.com/Antivash/CorSavPortraits/raw/main/Kojou_Sara.rar)
+- [Kujou Sara](https://github.com/Antivash/CorSavPortraits/raw/main/Kujou_Sara.rar)
 - [Kuki Shinobu](https://github.com/Antivash/CorSavPortraits/raw/main/Kuki_Shinobu.rar)
 - [Dehya](https://github.com/Antivash/CorSavPortraits/raw/main/Dehya.rar)
 - [Fischl](https://github.com/Antivash/CorSavPortraits/raw/main/Fischl.rar)
