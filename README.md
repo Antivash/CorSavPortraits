@@ -63,7 +63,7 @@ Images marked with (F) contain Forsaken images as well.
 - [Lakshmibai](https://github.com/Antivash/CorSavPortraits/raw/main/Lakshmibai.rar)
 - [Morgan le Fae](https://github.com/Antivash/CorSavPortraits/raw/main/Morgan_le_Fae.rar)
 - [Nagao Kagetora](https://github.com/Antivash/CorSavPortraits/raw/main/Nagao_Kagetora.rar)
-- [Okita Soji](https://github.com/Antivash/CorSavPortraits/raw/main/Okita_Soji.rar)
+- [Okita Soji (F)](https://github.com/Antivash/CorSavPortraits/raw/main/Okita_Soji.rar)
 - [Ranmaru X](https://github.com/Antivash/CorSavPortraits/raw/main/Ranmaru_X.rar)
 - [Scheherazade](https://github.com/Antivash/CorSavPortraits/raw/main/Scheherazade.rar)
 - [Tomoe Gozen](https://github.com/Antivash/CorSavPortraits/raw/main/Tomoe_Gozen.rar)
