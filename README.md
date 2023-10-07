@@ -2,6 +2,17 @@ A collection of images and roster files for [Corrupted Saviors]() adult game.
 
 Images marked with (F) contain Forsaken images as well.
 
+## Complete Packs:
+
+Misc contains Bleach and Persona.
+
+- [Arknights](https://github.com/Antivash/CorSavPortraits/raw/main/Arknights.rar)
+- [Genshin](https://github.com/Antivash/CorSavPortraits/raw/main/Genshin.rar)
+- [Fate](https://github.com/Antivash/CorSavPortraits/raw/main/Fate.rar)
+- [Misc](https://github.com/Antivash/CorSavPortraits/raw/main/Misc.rar)
+- [Questionables](https://github.com/Antivash/CorSavPortraits/raw/main/Questionables.rar)
+
+
 ## Arknights
 
 ### [Arknights Roster File One](https://github.com/Antivash/CorSavPortraits/raw/main/Arknights.ros)
@@ -39,6 +50,7 @@ Images marked with (F) contain Forsaken images as well.
 - [Skadi (F)](https://github.com/Antivash/CorSavPortraits/raw/main/Skadi.rar)
 - [Gladiia](https://github.com/Antivash/CorSavPortraits/raw/main/Gladiia.rar)
 - [Specter (F)](https://github.com/Antivash/CorSavPortraits/raw/main/Specter.rar)
+
 
 ## Fate
 
